@@ -34,13 +34,13 @@
 
 ### Top View
 
-![PCB Top View](images/LCOConverter%20PCB%202D.png)
+![PCB Top View](Images/LCOConverter%20PCB%202D.png)
 
 *Image 1: Top view of the PCB layout.*
 
 ### 3D Render
 
-![3D PCB](images/LCOConverter%20PCB%203D.png)
+![3D PCB](Images/LCOConverter%20PCB%203D.png)
 
 *Image 2: 3D render of the assembled PCB.*
 
