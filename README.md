@@ -21,7 +21,7 @@
 
 ![Schematic](Images/LCOConverter%20Schematic.png)
 
-*Image 3: Schematic Diagram*
+*Schematic Diagram*
 
 - **J1:** +5V input (+5V on pin 1, GND on pin 2)
 - **J2:** +3.3V output (+3.3V on pin 1, GND on pin 2)
@@ -36,13 +36,13 @@
 
 ![PCB Top View](Images/LCOConverter%20PCB%202D.png)
 
-*Image 1: Top view of the PCB layout.*
+*Top view of the PCB layout.*
 
 ### 3D Render
 
 ![3D PCB](Images/LCOConverter%20PCB%203D.png)
 
-*Image 2: 3D render of the assembled PCB.*
+*3D render of the assembled PCB.*
 
 ---
 
